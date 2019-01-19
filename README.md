@@ -1,9 +1,15 @@
 # [ 1 Col Portfolio](https://oleg-bc.github.io/portfolio/index.html)
 
-[Portfolio](./assets/images/readmeIMG.jpg) 
+[Portfolio]
+
+![](https://github.com/oleg-bc/portfolio/blob/master/assets/images/readmeIMG.jpg?raw=true)
 
 
-is a single column portfolio layout template for 
+Portfolio: is a single column portfolio layout template for portflio sites.
+
+It is builts with twitters bootstrap.
+Utilizes CSS/HTML/JS.
+
 
 ## Preview
 
